@@ -1,3 +1,5 @@
+> Credit scoring is a quintessential application of predictive modeling, focused on foreseeing the likelihood of a borrower defaulting on a credit obligation. This practice extends across a spectrum of scenarios, from personal loans to business financing, using diverse credit mechanisms like credit cards, loans, or deferred payment plans. In all cases, a lender disburses funds with the expectation of timely repayment, accompanied by interest that aligns with the associated risk of non-payment. Credit scoring encompasses an array of decision models and techniques, serving as a guide for lenders when granting consumer credit. These methodologies aid in determining who qualifies for credit, the amount to be extended, and strategies that optimize the profitability of borrowers while safeguarding the lender's interests. One of its fundamental roles is to evaluate the risk inherent in extending credit, offering a dependable assessment of an individual's creditworthiness grounded in empirical data.
+
 > **Introduction :**
 
 1. Provide an introduction to the project.
