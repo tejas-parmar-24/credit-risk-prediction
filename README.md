@@ -1,4 +1,5 @@
-> Credit scoring is a quintessential application of predictive modeling, focused on foreseeing the likelihood of a borrower defaulting on a credit obligation. This practice extends across a spectrum of scenarios, from personal loans to business financing, using diverse credit mechanisms like credit cards, loans, or deferred payment plans. In all cases, a lender disburses funds with the expectation of timely repayment, accompanied by interest that aligns with the associated risk of non-payment. Credit scoring encompasses an array of decision models and techniques, serving as a guide for lenders when granting consumer credit. These methodologies aid in determining who qualifies for credit, the amount to be extended, and strategies that optimize the profitability of borrowers while safeguarding the lender's interests. One of its fundamental roles is to evaluate the risk inherent in extending credit, offering a dependable assessment of an individual's creditworthiness grounded in empirical data.
+> Credit scoring is a quintessential application of predictive modeling, focused on foreseeing the likelihood of a borrower defaulting on a credit obligation. This practice extends across a spectrum of scenarios, from personal loans to business financing, using diverse credit mechanisms like credit cards, loans, or deferred payment plans. In all cases, a lender disburses funds with the expectation of timely repayment, accompanied by interest that aligns with the associated risk of non-payment.
+> Credit scoring encompasses an array of decision models and techniques, serving as a guide for lenders when granting consumer credit. These methodologies aid in determining who qualifies for credit, the amount to be extended, and strategies that optimize the profitability of borrowers while safeguarding the lender's interests. One of its fundamental roles is to evaluate the risk inherent in extending credit, offering a dependable assessment of an individual's creditworthiness grounded in empirical data.
 
 > **Introduction :**
 
@@ -31,6 +32,21 @@
 
 1. Further data preprocessing steps, possibly including data cleaning or feature engineering.
 2. Import any additional libraries required for preprocessing.
+
+> **Data Exploratory Analysis :**
+
+1. Bivariate Analysis - Numeric(T Test) and Categorical(Chisquare)
+2. Bivariate Analysis - Visualization
+
+> **Model Evaluation and Comparison :**
+
+1. Selection of various machine learning models, including Logistic Regression, Linear Discriminant Analysis, K-Nearest Neighbors, Decision Trees, Naive Bayes, Random Forest, Support Vector Machine (SVM), and XGBoost.
+
+2.  10-fold cross-validationfor assessing each model's generalization capabilities
+
+3. Computation of the mean recall score and its standard deviation for each model. This step offers insights into overall model performance and the extent of variability across different cross-validation folds.
+
+4. A boxplot that visually compares the distribution of recall scores for each model. This enables a straightforward assessment of relative model performance and variability, aiding in the selection of the most suitable model for the classification task.
 
 > **Model 1 (Modelling 1):**
 
